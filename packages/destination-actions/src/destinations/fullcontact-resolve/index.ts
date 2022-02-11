@@ -30,7 +30,7 @@ const destination: DestinationDefinition<Settings> = {
   extendRequest({ settings }) {
     return {
       headers: {
-        Authorization: `Bearer RUTdPC2jsQesII1SjX5ArOzPgS2grIsR`
+        Authorization: `Bearer `
       }
     }
   },
